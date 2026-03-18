@@ -1,4 +1,4 @@
-# 🌱 ComposTech — Monitoramento Inteligente de Compostagem
+# 🌱 ComposTech — Monitoramento Inteligente de Horta e Composteira IoT
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-Mobile-2ea44f?style=for-the-badge&logo=flutter&logoColor=white"/>
